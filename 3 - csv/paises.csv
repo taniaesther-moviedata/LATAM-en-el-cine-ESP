@@ -1,0 +1,56 @@
+"pais_id";"nombre";"es_latam"
+1;"Alemania";False
+2;"Andorra (Principado)";False
+3;"Argentina";True
+4;"Australia";False
+5;"Austria";False
+6;"Brasil";True
+7;"Bulgaria";False
+8;"Bélgica";False
+9;"Canadá";False
+10;"Chile";True
+11;"China";False
+12;"Colombia";True
+13;"Costa Rica";True
+14;"Cuba";True
+15;"Dinamarca";False
+16;"Ecuador";True
+17;"España";False
+18;"Estados Unidos";False
+19;"Estonia";False
+20;"Finlandia";False
+21;"Francia";False
+22;"Grecia";False
+23;"Herzegovina";False
+24;"Irán";False
+25;"Islandia";False
+26;"Italia";False
+27;"Kazajistán";False
+28;"Lituania";False
+29;"Luxemburgo";False
+30;"Líbano";False
+31;"Marruecos";False
+32;"Moldavia";False
+33;"México";True
+34;"Nicaragua";True
+35;"Noruega";False
+36;"Panamá";True
+37;"Países Bajos";False
+38;"Perú";True
+39;"Polonia";False
+40;"Portugal";False
+41;"Puerto Rico";True
+42;"Reino Unido";False
+43;"República Checa";False
+44;"República Dominicana";True
+45;"Rumanía";False
+46;"Rusia";False
+47;"Serbia";False
+48;"Sin determinar";False
+49;"Singapur";False
+50;"Suecia";False
+51;"Suiza";False
+52;"Turquía";False
+53;"Ucrania";False
+54;"Uruguay";True
+55;"Venezuela";True

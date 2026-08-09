@@ -1,0 +1,669 @@
+"subvencion_id";"pelicula_id";"concepto";"importe"
+1;2;"Ayudas Generales para la producción de largometrajes sobre proyecto";280000.0
+2;8;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";50000.0
+3;10;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";140250.0
+4;16;"Ayudas Generales para la producción de largometrajes sobre proyecto";280000.0
+5;17;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";119000.0
+6;23;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";45900.0
+7;26;"Ayudas a la Amortización de Largometrajes - General";915684.95
+8;26;"Ayudas a la Minoración de Intereses - Producción";64200.0
+9;27;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";119615.0
+10;28;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+11;30;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";80056.0
+12;33;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";450000.0
+13;34;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";800000.0
+14;39;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";680000.0
+15;42;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";800000.0
+16;43;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";425000.0
+17;45;"Ayudas a la Amortización de Largometrajes - Complementaria";901518.16
+18;46;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";800000.0
+19;48;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";94312.88
+20;49;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";783735.81
+21;51;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";265100.52
+22;53;"Ayudas a la Conservación de Negativos y soportes originales";8454.12
+23;54;"Ayudas sobre Proyecto de Largometrajes";180000.0
+24;55;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";107125.0
+25;56;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";280250.0
+26;58;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";29275.64
+27;60;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";172425.0
+28;62;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";55462.5
+29;63;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";165750.0
+30;64;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";51000.0
+31;66;"Ayudas Generales para la producción de largometrajes sobre proyecto";958916.0
+32;71;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";232000.0
+33;72;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";800000.0
+34;73;"Ayudas a la Amortización de Largometrajes - General";1955474.06
+35;73;"Ayudas a la Minoración de Intereses - Producción";90000.0
+36;75;"Ayudas Generales para la producción de largometrajes sobre proyecto";683941.27
+37;76;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";123250.0
+38;77;"Ayudas a la Amortización de Largometrajes - Complementaria";90151.82
+39;77;"Ayudas a la Amortización de Largometrajes - General";811366.34
+40;77;"Ayudas a la Distribución de Largometrajes";20465.0
+41;78;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";255000.0
+42;80;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";800000.0
+43;86;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";680000.0
+44;88;"Ayudas Generales para la producción de largometrajes sobre proyecto";945117.0
+45;90;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";680000.0
+46;92;"Ayudas Generales para la producción de largometrajes sobre proyecto";419403.0
+47;95;"Ayudas a la Amortización de Largometrajes - General";1000000.0
+48;95;"Ayudas a la Conservación de Negativos y soportes originales";20478.21
+49;95;"Ayudas a la Minoración de Intereses - Producción";48500.0
+50;96;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";97349.6
+51;97;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";573725.0
+52;99;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";631125.0
+53;102;"Ayudas a la Amortización de Largometrajes - General";776893.41
+54;102;"Ayudas a la Distribución de Largometrajes";31000.0
+55;102;"Ayudas a la Minoración de Intereses - Producción";29149.08
+56;109;"Ayudas a la Amortización de Largometrajes - General";851160.8
+57;109;"Ayudas a la Conservación de Negativos y soportes originales";11245.99
+58;109;"Ayudas a la Distribución de Largometrajes";20465.0
+59;110;"Ayudas a la Amortización de Largometrajes - General";1000000.0
+60;111;"Ayudas Generales para la producción de largometrajes sobre proyecto";900000.0
+61;117;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";136000.0
+62;118;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";400000.0
+63;119;"Ayudas Generales para la producción de largometrajes sobre proyecto";1200000.0
+64;120;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";122220.0
+65;130;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";120000.0
+66;133;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";400000.0
+67;135;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";140236.4
+68;136;"Ayudas a la Amortización de Largometrajes - General";901518.0
+69;136;"Ayudas a la Conservación de Negativos y soportes originales";6337.19
+70;136;"Ayudas a la Minoración de Intereses - Producción";14918.95
+71;139;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";201819.0
+72;141;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";800000.0
+73;142;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";755000.0
+74;143;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";317570.33
+75;147;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";175750.0
+76;152;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";221027.2
+77;156;"Ayudas Generales para la producción de largometrajes sobre proyecto";980000.0
+78;160;"Ayudas Generales para la producción de largometrajes sobre proyecto";520097.76
+79;165;"Ayudas Generales para la producción de largometrajes sobre proyecto";882000.0
+80;167;"Ayudas Generales para la producción de largometrajes sobre proyecto";969900.0
+81;169;"Ayudas a la Amortización de Largometrajes - General";965124.06
+82;169;"Ayudas a la Conservación de Negativos y soportes originales";27752.14
+83;169;"Ayudas a la Minoración de Intereses - Producción";35000.0
+84;171;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";425000.0
+85;174;"Ayudas Generales para la producción de largometrajes sobre proyecto";1200000.0
+86;175;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+87;181;"Ayudas Generales para la producción de largometrajes sobre proyecto";498529.87
+88;183;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";600000.0
+89;184;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";283644.0
+90;187;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";80000.0
+91;188;"Ayudas Generales para la producción de largometrajes sobre proyecto";500000.0
+92;189;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";318754.67
+93;191;"Ayudas Generales para la producción de largometrajes sobre proyecto";1200000.0
+94;195;"Ayudas a la Amortización de Largometrajes - General";1000000.0
+95;195;"Ayudas a la Conservación de Negativos y soportes originales";18270.88
+96;195;"Ayudas a la Minoración de Intereses - Producción";29149.08
+97;196;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";40000.0
+98;198;"Ayudas Generales para la producción de largometrajes sobre proyecto";192441.84
+99;203;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+100;205;"Ayudas a la Amortización de Largometrajes - General";901518.0
+101;205;"Ayudas a la Conservación de Negativos y soportes originales";10888.85
+102;205;"Ayudas a la Minoración de Intereses - Producción";29837.95
+103;206;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";72000.0
+104;210;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";228000.0
+105;212;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";450000.0
+106;215;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";256500.0
+107;216;"Ayudas Generales para la producción de largometrajes sobre proyecto";1200000.0
+108;217;"Ayudas a la Amortización de Largometrajes - Complementaria";523300.0
+109;217;"Ayudas a la Amortización de Largometrajes - General";476700.0
+110;217;"Ayudas a la Minoración de Intereses - Producción";19250.0
+111;219;"Ayudas a la producción de cortometrajes realizados";7565.22
+112;223;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";64000.0
+113;224;"Ayudas a la Amortización de Largometrajes - General";950000.0
+114;224;"Ayudas a la Conservación de Negativos y soportes originales";20784.82
+115;224;"Ayudas a la Minoración de Intereses - Producción";48500.0
+116;227;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";94396.5
+117;228;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";450000.0
+118;231;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+119;232;"Ayudas Generales para la producción de largometrajes sobre proyecto";441096.32
+120;233;"Ayudas a la Amortización de Largometrajes - General";892314.77
+121;233;"Ayudas a la Conservación de Negativos y soportes originales";11990.76
+122;233;"Ayudas a la Minoración de Intereses - Producción";31541.0
+123;236;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+124;238;"Ayudas Generales para la producción de largometrajes sobre proyecto";700000.0
+125;239;"Ayudas Generales para la producción de largometrajes sobre proyecto";1200000.0
+126;240;"Ayudas Generales para la producción de largometrajes sobre proyecto";1200000.0
+127;243;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+128;249;"Ayudas a la Amortización de Largometrajes - Complementaria";477256.31
+129;258;"Ayudas Generales para la producción de largometrajes sobre proyecto";960000.0
+130;263;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+131;266;"Ayudas Generales para la producción de largometrajes sobre proyecto";980000.0
+132;268;"Ayudas Generales para la producción de largometrajes sobre proyecto";1400000.0
+133;269;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+134;270;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+135;271;"Ayudas Generales para la producción de largometrajes sobre proyecto";939108.0
+136;272;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+137;274;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+138;277;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";420000.0
+139;280;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";800000.0
+140;282;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+141;283;"Ayudas Generales para la producción de largometrajes sobre proyecto";1200000.0
+142;286;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+143;288;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";160000.0
+144;291;"Ayudas Generales para la producción de largometrajes sobre proyecto";1200000.0
+145;295;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";800000.0
+146;296;"Ayudas Generales para la producción de largometrajes sobre proyecto";869935.5
+147;297;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";97555.5
+148;299;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";800000.0
+149;302;"Ayudas Generales para la producción de largometrajes sobre proyecto";882593.6
+150;305;"Ayudas Generales para la producción de largometrajes sobre proyecto";700000.0
+151;306;"Ayudas Generales para la producción de largometrajes sobre proyecto";663700.0
+152;307;"Ayudas sobre Proyecto de Largometrajes";500000.0
+153;308;"Ayudas Generales para la producción de largometrajes sobre proyecto";700000.0
+154;313;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";81636.16
+155;316;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";760000.0
+156;319;"Ayudas Generales para la producción de largometrajes sobre proyecto";1151508.19
+157;320;"Ayudas a la Amortización de Largometrajes - General";143061.17
+158;321;"Ayudas Generales para la producción de largometrajes sobre proyecto";993766.3
+159;323;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";758828.08
+160;329;"Ayudas Generales para la producción de largometrajes sobre proyecto";400000.0
+161;333;"Ayudas Generales para la producción de largometrajes sobre proyecto";840000.0
+162;334;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";83362.05
+163;335;"Ayudas Generales para la producción de largometrajes sobre proyecto";454727.53
+164;338;"Ayudas a la Amortización de Largometrajes - General";1000000.0
+165;338;"Ayudas a la Minoración de Intereses - Producción";35000.0
+166;340;"Ayudas Generales para la producción de largometrajes sobre proyecto";1200000.0
+167;341;"Ayudas Generales para la producción de largometrajes sobre proyecto";500000.0
+168;343;"Ayudas Generales para la producción de largometrajes sobre proyecto";699900.0
+169;349;"Ayudas Generales para la producción de largometrajes sobre proyecto";900000.0
+170;351;"Ayudas Generales para la producción de largometrajes sobre proyecto";700000.0
+171;355;"Ayudas Generales para la producción de largometrajes sobre proyecto";492539.03
+172;357;"Ayudas a la Amortización de Largometrajes - General";905328.03
+173;357;"Ayudas a la Distribución de Largometrajes";43000.0
+174;357;"Ayudas a la Minoración de Intereses - Producción";33950.0
+175;358;"Ayudas Generales para la producción de largometrajes sobre proyecto";700000.0
+176;359;"Ayudas Generales para la producción de largometrajes sobre proyecto";672200.0
+177;360;"Ayudas Generales para la producción de largometrajes sobre proyecto";700000.0
+178;368;"Ayudas Generales para la producción de largometrajes sobre proyecto";690900.0
+179;370;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";191159.0
+180;375;"Ayudas a la Amortización de Largometrajes - General";367144.37
+181;376;"Ayudas Generales para la producción de largometrajes sobre proyecto";280000.0
+182;379;"Ayudas Generales para la producción de largometrajes sobre proyecto";940160.39
+183;380;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";266050.0
+184;381;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";97130.35
+185;388;"Ayudas Generales para la producción de largometrajes sobre proyecto";958024.89
+186;391;"Ayudas Generales para la producción de largometrajes sobre proyecto";480000.0
+187;392;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+188;403;"Ayudas Generales para la producción de largometrajes sobre proyecto";1200000.0
+189;406;"Ayudas Generales para la producción de largometrajes sobre proyecto";700000.0
+190;413;"Ayudas Generales para la producción de largometrajes sobre proyecto";480000.0
+191;415;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";22972.0
+192;416;"Ayudas Generales para la producción de largometrajes sobre proyecto";480000.0
+193;417;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";425000.0
+194;419;"Ayudas Generales para la producción de largometrajes sobre proyecto";700000.0
+195;420;"Ayudas Generales para la producción de largometrajes sobre proyecto";720580.0
+196;421;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+197;423;"Ayudas Generales para la producción de largometrajes sobre proyecto";784587.23
+198;427;"Ayudas Generales para la producción de largometrajes sobre proyecto";488820.88
+199;428;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";800000.0
+200;432;"Ayudas Generales para la producción de largometrajes sobre proyecto";1200000.0
+201;434;"Ayudas Generales para la producción de largometrajes sobre proyecto";195169.44
+202;435;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+203;442;"Ayudas Generales para la producción de largometrajes sobre proyecto";700000.0
+204;444;"Ayudas Generales para la producción de largometrajes sobre proyecto";1200000.0
+205;445;"Ayudas Generales para la producción de largometrajes sobre proyecto";200000.0
+206;449;"Ayudas Generales para la producción de largometrajes sobre proyecto";973400.0
+207;454;"Ayudas Generales para la producción de largometrajes sobre proyecto";934346.9
+208;456;"Ayudas Generales para la producción de largometrajes sobre proyecto";400000.0
+209;459;"Ayudas Generales para la producción de largometrajes sobre proyecto";560000.0
+210;462;"Ayudas Generales para la producción de largometrajes sobre proyecto";480000.0
+211;464;"Ayudas Generales para la producción de largometrajes sobre proyecto";500000.0
+212;465;"Ayudas Generales para la producción de largometrajes sobre proyecto";840000.0
+213;466;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+214;467;"Ayudas Generales para la producción de largometrajes sobre proyecto";1400000.0
+215;469;"Ayudas Generales para la producción de largometrajes sobre proyecto";700000.0
+216;470;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+217;471;"Ayudas Generales para la producción de largometrajes sobre proyecto";701725.02
+218;472;"Ayudas Generales para la producción de largometrajes sobre proyecto";840000.0
+219;473;"Ayudas Generales para la producción de largometrajes sobre proyecto";200000.0
+220;474;"Ayudas Generales para la producción de largometrajes sobre proyecto";480000.0
+221;475;"Ayudas para el Desarrollo de Proyectos de Largometraje";46000.0
+222;475;"Ayudas sobre Proyecto de Largometrajes";289975.0
+223;476;"Ayudas Generales para la producción de largometrajes sobre proyecto";181200.0
+224;477;"Ayudas Generales para la producción de largometrajes sobre proyecto";400000.0
+225;479;"Ayudas Generales para la producción de largometrajes sobre proyecto";200000.0
+226;480;"Ayudas Generales para la producción de largometrajes sobre proyecto";840000.0
+227;481;"Ayudas Generales para la producción de largometrajes sobre proyecto";560000.0
+228;485;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";227210.31
+229;487;"Ayudas Generales para la producción de largometrajes sobre proyecto";397284.44
+230;488;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";103654.1
+231;491;"Ayudas Generales para la producción de largometrajes sobre proyecto";908198.31
+232;493;"Ayudas Generales para la producción de largometrajes sobre proyecto";598000.0
+233;494;"Ayudas Generales para la producción de largometrajes sobre proyecto";656787.16
+234;495;"Ayudas Generales para la producción de largometrajes sobre proyecto";828000.0
+235;498;"Ayudas Generales para la producción de largometrajes sobre proyecto";200000.0
+236;499;"Ayudas Generales para la producción de largometrajes sobre proyecto";980000.0
+237;502;"Ayudas Generales para la producción de largometrajes sobre proyecto";200000.0
+238;503;"Ayudas Generales para la producción de largometrajes sobre proyecto";1100000.0
+239;504;"Ayudas Generales para la producción de largometrajes sobre proyecto";1200000.0
+240;505;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+241;506;"Ayudas Generales para la producción de largometrajes sobre proyecto";200000.0
+242;507;"Ayudas Generales para la producción de largometrajes sobre proyecto";700000.0
+243;508;"Ayudas Generales para la producción de largometrajes sobre proyecto";681111.29
+244;509;"Ayudas Generales para la producción de largometrajes sobre proyecto";1400000.0
+245;510;"Ayudas Generales para la producción de largometrajes sobre proyecto";695000.0
+246;511;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+247;512;"Ayudas Generales para la producción de largometrajes sobre proyecto";1200000.0
+248;513;"Ayudas a la Amortización de Largometrajes - General";460000.0
+249;516;"Ayudas Generales para la producción de largometrajes sobre proyecto";500000.0
+250;517;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+251;518;"Ayudas Generales para la producción de largometrajes sobre proyecto";1200000.0
+252;519;"Ayudas Generales para la producción de largometrajes sobre proyecto";840000.0
+253;520;"Ayudas Generales para la producción de largometrajes sobre proyecto";900000.0
+254;521;"Ayudas sobre Proyecto de Largometrajes";35000.0
+255;523;"Ayudas Generales para la producción de largometrajes sobre proyecto";1400000.0
+256;524;"Ayudas Generales para la producción de largometrajes sobre proyecto";700000.0
+257;525;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+258;526;"Ayudas Generales para la producción de largometrajes sobre proyecto";840000.0
+259;529;"Ayudas Generales para la producción de largometrajes sobre proyecto";700000.0
+260;530;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+261;535;"Ayudas Generales para la producción de largometrajes sobre proyecto";400000.0
+262;562;"Ayudas Generales para la producción de largometrajes sobre proyecto";1200000.0
+263;564;"Ayudas Generales para la producción de largometrajes sobre proyecto";506176.62
+264;570;"Ayudas Generales para la producción de largometrajes sobre proyecto";1200000.0
+265;574;"Ayudas Generales para la producción de largometrajes sobre proyecto";1200000.0
+266;576;"Ayudas Generales para la producción de largometrajes sobre proyecto";1182000.0
+267;580;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+268;582;"Ayudas Generales para la producción de largometrajes sobre proyecto";1100000.0
+269;585;"Ayudas a la Conservación de Negativos y soportes originales";10096.75
+270;586;"Ayudas Generales para la producción de largometrajes sobre proyecto";1200000.0
+271;601;"Ayudas a la Conservación de Negativos y soportes originales";8437.5
+272;606;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+273;609;"Ayudas Generales para la producción de largometrajes sobre proyecto";700000.0
+274;614;"Ayudas a la Amortización de Largometrajes - General";1500000.0
+275;625;"Ayudas Generales para la producción de largometrajes sobre proyecto";200000.0
+276;628;"Ayudas para el Desarrollo de Proyectos de Largometraje";10984.15
+277;636;"Ayudas Generales para la producción de largometrajes sobre proyecto";630021.16
+278;637;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+279;645;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";42000.0
+280;647;"Ayudas Generales para la producción de largometrajes sobre proyecto";700000.0
+281;652;"Ayudas a la Amortización de Largometrajes - General";20466.87
+282;653;"Ayudas Generales para la producción de largometrajes sobre proyecto";991200.0
+283;655;"Ayudas Generales para la producción de largometrajes sobre proyecto";108803.04
+284;659;"Ayudas Generales para la producción de largometrajes sobre proyecto";500000.0
+285;660;"Ayudas Generales para la producción de largometrajes sobre proyecto";840000.0
+286;661;"Ayudas Generales para la producción de largometrajes sobre proyecto";200000.0
+287;666;"Ayudas Generales para la producción de largometrajes sobre proyecto";200000.0
+288;668;"Ayudas Generales para la producción de largometrajes sobre proyecto";500000.0
+289;671;"Ayudas Generales para la producción de largometrajes sobre proyecto";840000.0
+290;674;"Ayudas Generales para la producción de largometrajes sobre proyecto";200000.0
+291;679;"Ayudas a la Amortización de Largometrajes - General";1173057.1
+292;679;"Ayudas a la Minoración de Intereses - Producción";108000.0
+293;681;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";32735.04
+294;689;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";124312.5
+295;694;"Ayudas Generales para la producción de largometrajes sobre proyecto";1200000.0
+296;695;"Ayudas Generales para la producción de largometrajes sobre proyecto";820000.0
+297;707;"Ayudas a la Amortización de Largometrajes - General";815315.39
+298;707;"Ayudas a la Conservación de Negativos y soportes originales";23501.07
+299;707;"Ayudas a la Minoración de Intereses - Producción";29539.63
+300;710;"Ayudas Generales para la producción de largometrajes sobre proyecto";1200000.0
+301;711;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+302;742;"Ayudas a la Amortización de Largometrajes - General";96000.0
+303;753;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+304;755;"Ayudas Generales para la producción de largometrajes sobre proyecto";1200000.0
+305;757;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+306;762;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";76500.0
+307;766;"Ayudas Generales para la producción de largometrajes sobre proyecto";1200000.0
+308;767;"Ayudas Generales para la producción de largometrajes sobre proyecto";1200000.0
+309;772;"Ayudas Generales para la producción de largometrajes sobre proyecto";900323.0
+310;774;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+311;777;"Ayudas Generales para la producción de largometrajes sobre proyecto";1200000.0
+312;779;"Ayudas Generales para la producción de largometrajes sobre proyecto";1200000.0
+313;780;"Ayudas Generales para la producción de largometrajes sobre proyecto";1200000.0
+314;783;"Ayudas Generales para la producción de largometrajes sobre proyecto";1200000.0
+315;785;"Ayudas Generales para la producción de largometrajes sobre proyecto";1200000.0
+316;787;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+317;791;"Ayudas Generales para la producción de largometrajes sobre proyecto";1200000.0
+318;792;"Ayudas Generales para la producción de largometrajes sobre proyecto";1200000.0
+319;795;"Ayudas Generales para la producción de largometrajes sobre proyecto";1200000.0
+320;796;"Ayudas Generales para la producción de largometrajes sobre proyecto";1200000.0
+321;797;"Ayudas a la promoción de peliculas en festivales";6000.0
+322;797;"Ayudas sobre Proyecto de Largometrajes";204480.0
+323;806;"Ayudas a la promoción de peliculas en festivales";375.0
+324;806;"Ayudas sobre Proyecto de Largometrajes";220714.29
+325;807;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+326;818;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+327;819;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+328;823;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+329;829;"Ayudas a la Amortización de Largometrajes - General";652951.5
+330;829;"Ayudas a la Distribución de Largometrajes";30000.0
+331;829;"Ayudas a la Minoración de Intereses - Producción";26854.16
+332;837;"Ayudas Generales para la producción de largometrajes sobre proyecto";900000.0
+333;851;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";123476.86
+334;863;"Ayudas a la Amortización de Largometrajes - General";1179732.53
+335;885;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";29668.17
+336;898;"Ayudas a la promoción de peliculas en festivales";4000.0
+337;898;"Ayudas sobre Proyecto de Largometrajes";289041.67
+338;899;"Ayudas sobre Proyecto de Largometrajes";38835.85
+339;902;"Ayudas a la Amortización de Largometrajes - General";619616.63
+340;902;"Ayudas a la Minoración de Intereses - Producción";18000.0
+341;907;"Ayudas a la Amortización de Largometrajes - General";750000.0
+342;908;"Ayudas a la Conservación de Negativos y soportes originales";17838.7
+343;913;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";42500.0
+344;916;"Ayudas a la Amortización de Largometrajes - General";33403.68
+345;916;"Ayudas a la Minoración de Intereses - Producción";27869.1
+346;923;"Ayudas Generales para la producción de largometrajes sobre proyecto";840000.0
+347;930;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";124583.99
+348;947;"Ayudas Generales para la producción de largometrajes sobre proyecto";796205.18
+349;993;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";72861.15
+350;1015;"Ayudas Generales para la producción de largometrajes sobre proyecto";1200000.0
+351;1020;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";760000.0
+352;1054;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";184375.0
+353;1062;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";350000.0
+354;1066;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";73646.6
+355;1072;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";76000.0
+356;1076;"Ayudas Generales para la producción de largometrajes sobre proyecto";497617.3
+357;1084;"Ayudas para el Desarrollo de Proyectos de Largometraje";16710.25
+358;1084;"Ayudas sobre Proyecto de Largometrajes";220409.0
+359;1088;"Ayudas Generales para la producción de largometrajes sobre proyecto";650000.0
+360;1094;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";28500.0
+361;1095;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+362;1101;"Ayudas a la Amortización de Largometrajes - General";21117.04
+363;1101;"Ayudas sobre Proyecto de Largometrajes";179166.67
+364;1107;"Ayudas Generales para la producción de largometrajes sobre proyecto";280000.0
+365;1108;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";157250.0
+366;1114;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+367;1117;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";96581.25
+368;1123;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";85000.0
+369;1124;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";605784.8
+370;1126;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";21564.8
+371;1133;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";55016.25
+372;1135;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";87465.0
+373;1136;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";595000.0
+374;1139;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";260139.6
+375;1140;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";400000.0
+376;1145;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";658750.0
+377;1152;"Ayudas sobre Proyecto de Largometrajes";250000.0
+378;1153;"Ayudas a la producción de cortometrajes realizados";35989.42
+379;1153;"Ayudas a la producción de cortometrajes sobre proyecto";27000.0
+380;1155;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";425000.0
+381;1157;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";283220.0
+382;1159;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";117878.0
+383;1164;"Ayudas a la Amortización de Largometrajes - General";784196.62
+384;1164;"Ayudas a la Minoración de Intereses - Producción";35000.0
+385;1171;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";450000.0
+386;1178;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+387;1179;"Ayudas a la Amortización de Largometrajes - General";69488.63
+388;1179;"Ayudas a la promoción de peliculas en festivales";12600.0
+389;1182;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+390;1183;"Ayudas Generales para la producción de largometrajes sobre proyecto";1196400.0
+391;1186;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+392;1187;"Ayudas Generales para la producción de largometrajes sobre proyecto";700000.0
+393;1191;"Ayudas Generales para la producción de largometrajes sobre proyecto";365150.52
+394;1197;"Ayudas a la Amortización de Largometrajes - General";1205689.64
+395;1199;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";425000.0
+396;1200;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+397;1203;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";80043.89
+398;1204;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+399;1205;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";77000.0
+400;1206;"Ayudas Generales para la producción de largometrajes sobre proyecto";840000.0
+401;1207;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+402;1209;"Ayudas sobre Proyecto de Largometrajes";302833.3
+403;1211;"Ayudas Generales para la producción de largometrajes sobre proyecto";967412.0
+404;1220;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";709133.0
+405;1221;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";300000.0
+406;1228;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";111500.0
+407;1233;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";343770.0
+408;1235;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";12871.04
+409;1237;"Ayudas Generales para la producción de largometrajes sobre proyecto";980000.0
+410;1240;"Ayudas a la Amortización de Largometrajes - Complementaria";666808.66
+411;1245;"Ayudas a la Conservación de Negativos y soportes originales";10269.04
+412;1246;"Ayudas a la Amortización de Largometrajes - General";13125.09
+413;1246;"Ayudas a la promoción de peliculas en festivales";10800.0
+414;1246;"Ayudas sobre Proyecto de Largometrajes";301437.5
+415;1247;"Ayudas a la promoción de peliculas en festivales";4000.0
+416;1247;"Ayudas sobre Proyecto de Largometrajes";355000.0
+417;1248;"Ayudas a la Amortización de Largometrajes - General";652663.36
+418;1248;"Ayudas a la Minoración de Intereses - Producción";29148.08
+419;1249;"Ayudas sobre Proyecto de Largometrajes";290268.5
+420;1250;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+421;1251;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";66842.0
+422;1253;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";190000.0
+423;1256;"Ayudas Generales para la producción de largometrajes sobre proyecto";991930.0
+424;1257;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";43065.0
+425;1258;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";20400.0
+426;1259;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+427;1260;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+428;1262;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+429;1264;"Ayudas Generales para la producción de largometrajes sobre proyecto";1200000.0
+430;1265;"Ayudas Generales para la producción de largometrajes sobre proyecto";995400.0
+431;1267;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";353760.0
+432;1269;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+433;1270;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";64211.89
+434;1271;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+435;1272;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+436;1273;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+437;1274;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";675000.0
+438;1276;"Ayudas Generales para la producción de largometrajes sobre proyecto";840000.0
+439;1278;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";386100.0
+440;1288;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+441;1290;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";284099.44
+442;1291;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";680000.0
+443;1292;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";339882.2
+444;1298;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";73631.88
+445;1300;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";60371.0
+446;1301;"Ayudas a la promoción de peliculas en festivales";17179.5
+447;1303;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+448;1304;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";278160.0
+449;1309;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";128647.5
+450;1323;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";636388.14
+451;1324;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";324771.02
+452;1325;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";596224.0
+453;1329;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";338980.0
+454;1332;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";800000.0
+455;1333;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";360000.0
+456;1334;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";110996.92
+457;1336;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";115200.0
+458;1343;"Ayudas Generales para la producción de largometrajes sobre proyecto";661119.6
+459;1344;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";800000.0
+460;1345;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+461;1346;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";80430.85
+462;1348;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";13920.0
+463;1349;"Ayudas Generales para la producción de largometrajes sobre proyecto";500000.0
+464;1351;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";285047.89
+465;1352;"Ayudas a la Amortización de Largometrajes - General";901518.0
+466;1352;"Ayudas a la Conservación de Negativos y soportes originales";15422.4
+467;1352;"Ayudas a la Minoración de Intereses - Producción";29838.0
+468;1353;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";48742.42
+469;1356;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";425000.0
+470;1360;"Ayudas Generales para la producción de largometrajes sobre proyecto";818277.35
+471;1361;"Ayudas Generales para la producción de largometrajes sobre proyecto";895000.0
+472;1362;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+473;1364;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";86355.0
+474;1367;"Ayudas Generales para la producción de largometrajes sobre proyecto";480000.0
+475;1368;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";140000.0
+476;1369;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";476629.0
+477;1370;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";77900.0
+478;1371;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";231649.79
+479;1380;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";365750.0
+480;1385;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";217600.0
+481;1386;"Ayudas sobre Proyecto de Largometrajes";89324.38
+482;1387;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";317680.0
+483;1388;"Ayudas sobre Proyecto de Largometrajes";313950.0
+484;1390;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";42336.0
+485;1391;"Ayudas Generales para la producción de largometrajes sobre proyecto";200000.0
+486;1392;"Ayudas Generales para la producción de largometrajes sobre proyecto";700000.0
+487;1396;"Ayudas Generales para la producción de largometrajes sobre proyecto";480000.0
+488;1397;"Ayudas a la Amortización de Largometrajes - General";2420.38
+489;1398;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";62315.4
+490;1401;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";153000.0
+491;1402;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";319771.07
+492;1403;"Ayudas Generales para la producción de largometrajes sobre proyecto";595000.0
+493;1404;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";48077.8
+494;1405;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";650000.0
+495;1407;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";160017.6
+496;1411;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";391000.0
+497;1413;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+498;1414;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";49400.0
+499;1415;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";84908.2
+500;1416;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";24479.01
+501;1418;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";205945.82
+502;1424;"Ayudas a la Amortización de Largometrajes - General";692673.21
+503;1426;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";61430.0
+504;1427;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";250000.0
+505;1429;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";446250.0
+506;1436;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";44477.1
+507;1437;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+508;1440;"Ayudas Generales para la producción de largometrajes sobre proyecto";500000.0
+509;1441;"Ayudas Generales para la producción de largometrajes sobre proyecto";838800.0
+510;1442;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";277425.0
+511;1444;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";183750.0
+512;1449;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";342500.0
+513;1451;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";343750.0
+514;1453;"Ayudas Generales para la producción de largometrajes sobre proyecto";840000.0
+515;1454;"Ayudas a la producción de cortometrajes sobre proyecto";24400.0
+516;1456;"Ayudas Generales para la producción de largometrajes sobre proyecto";700000.0
+517;1457;"Ayudas a la Conservación de Negativos y soportes originales";15843.17
+518;1459;"Ayudas a la Amortización de Largometrajes - General";636119.16
+519;1459;"Ayudas a la Distribución de Largometrajes";16000.0
+520;1459;"Ayudas a la Minoración de Intereses - Producción";29149.08
+521;1462;"Ayudas a la Amortización de Largometrajes - General";947608.47
+522;1462;"Ayudas a la Conservación de Negativos y soportes originales";18792.25
+523;1462;"Ayudas a la Minoración de Intereses - Producción";29149.09
+524;1463;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";480000.0
+525;1467;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";680000.0
+526;1473;"Ayudas a la producción de cortometrajes realizados";2702.96
+527;1473;"Ayudas a la producción de cortometrajes sobre proyecto";13743.84
+528;1474;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";71100.0
+529;1475;"Ayudas Generales para la producción de largometrajes sobre proyecto";1142609.2
+530;1476;"Ayudas Generales para la producción de largometrajes sobre proyecto";480000.0
+531;1487;"Ayudas Generales para la producción de largometrajes sobre proyecto";840000.0
+532;1490;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";164079.8
+533;1493;"Ayudas a la Amortización de Largometrajes - General";43215.14
+534;1493;"Ayudas sobre Proyecto de Largometrajes";209000.0
+535;1500;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";244800.0
+536;1501;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";300150.0
+537;1502;"Ayudas Generales para la producción de largometrajes sobre proyecto";688269.6
+538;1503;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";355459.5
+539;1504;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";291550.0
+540;1506;"Ayudas a la Amortización de Largometrajes - General";635411.4
+541;1506;"Ayudas a la Conservación de Negativos y soportes originales";6539.26
+542;1506;"Ayudas a la Minoración de Intereses - Producción";29148.5
+543;1522;"Ayudas a la Amortización de Largometrajes - Complementaria";441730.62
+544;1523;"Ayudas a la Amortización de Largometrajes - General";1000000.0
+545;1523;"Ayudas a la Conservación de Negativos y soportes originales";17506.05
+546;1523;"Ayudas a la Minoración de Intereses - Producción";29149.08
+547;1528;"Ayudas sobre Proyecto de Largometrajes";379381.88
+548;1529;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";500000.0
+549;1531;"Ayudas a la Amortización de Largometrajes - General";9367.39
+550;1531;"Ayudas sobre Proyecto de Largometrajes";300000.0
+551;1536;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";100000.0
+552;1539;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";333259.92
+553;1542;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";64000.0
+554;1543;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";41426.94
+555;1547;"Ayudas a la Amortización de Largometrajes - General";692726.23
+556;1549;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";586500.0
+557;1552;"Ayudas a la Amortización de Largometrajes - General";1500000.0
+558;1552;"Ayudas a la Minoración de Intereses - Producción";46750.0
+559;1553;"Ayudas a la Amortización de Largometrajes - General";980884.63
+560;1553;"Ayudas a la Conservación de Negativos y soportes originales";31881.54
+561;1553;"Ayudas a la Minoración de Intereses - Producción";72000.0
+562;1555;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";201781.5
+563;1557;"Ayudas a la Amortización de Largometrajes - Complementaria";901518.16
+564;1557;"Ayudas a la Conservación de Negativos y soportes originales";11152.61
+565;1558;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";744922.0
+566;1561;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";192000.0
+567;1562;"Ayudas a la producción de cortometrajes sobre proyecto";15136.2
+568;1563;"Ayudas a la Amortización de Largometrajes - General";1296959.21
+569;1563;"Ayudas a la Minoración de Intereses - Producción";108000.0
+570;1564;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";80000.0
+571;1567;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";378250.0
+572;1568;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";680245.0
+573;1569;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";46520.5
+574;1570;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";708814.0
+575;1575;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";800000.0
+576;1578;"Ayudas a la Amortización de Largometrajes - General";58306.78
+577;1579;"Ayudas Generales para la producción de largometrajes sobre proyecto";720480.0
+578;1581;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";260000.0
+579;1582;"Ayudas a la Amortización de Largometrajes - General";901518.16
+580;1582;"Ayudas a la Conservación de Negativos y soportes originales";9427.98
+581;1582;"Ayudas a la Distribución de Largometrajes";22965.0
+582;1583;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";800000.0
+583;1586;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";531250.0
+584;1587;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";114952.3
+585;1590;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";51000.0
+586;1593;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";506000.0
+587;1595;"Ayudas sobre Proyecto de Largometrajes";569191.0
+588;1598;"Ayudas sobre Proyecto de Largometrajes";288322.35
+589;1599;"Ayudas Generales para la producción de largometrajes sobre proyecto";604999.5
+590;1601;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";800000.0
+591;1604;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";30875.0
+592;1608;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";272000.0
+593;1611;"Ayudas Generales para la producción de largometrajes sobre proyecto";840000.0
+594;1614;"Ayudas sobre Proyecto de Largometrajes";39433.2
+595;1616;"Ayudas Generales para la producción de largometrajes sobre proyecto";980000.0
+596;1621;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";17966.09
+597;1622;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";181000.0
+598;1624;"Ayudas Generales para la producción de largometrajes sobre proyecto";700000.0
+599;1632;"Ayudas Generales para la producción de largometrajes sobre proyecto";826769.01
+600;1634;"Ayudas a la promoción de peliculas en festivales";6500.0
+601;1634;"Ayudas sobre Proyecto de Largometrajes";500000.0
+602;1635;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";104308.17
+603;1638;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";99630.0
+604;1641;"Ayudas a la Distribución de Largometrajes";10000.0
+605;1643;"Ayudas Generales para la producción de largometrajes sobre proyecto";629276.0
+606;1644;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";90000.0
+607;1646;"Ayudas Generales para la producción de largometrajes sobre proyecto";594000.0
+608;1648;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";45858.5
+609;1649;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";432000.0
+610;1657;"Ayudas Generales para la producción de largometrajes sobre proyecto";161950.09
+611;1658;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";102000.0
+612;1660;"Ayudas Generales para la producción de largometrajes sobre proyecto";725603.1
+613;1664;"Ayudas Generales para la producción de largometrajes sobre proyecto";700000.0
+614;1665;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+615;1669;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";140000.0
+616;1674;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";800000.0
+617;1676;"Ayudas Generales para la producción de largometrajes sobre proyecto";1200000.0
+618;1677;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";800000.0
+619;1678;"Ayudas a la Amortización de Largometrajes - General";729398.93
+620;1678;"Ayudas a la Minoración de Intereses - Producción";30000.0
+621;1678;"Ayudas a la promoción de peliculas en festivales";8620.22
+622;1681;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";85255.0
+623;1685;"Ayudas Generales para la producción de largometrajes sobre proyecto";500000.0
+624;1686;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";628397.33
+625;1688;"Ayudas Generales para la producción de largometrajes sobre proyecto";208000.0
+626;1690;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";107843.75
+627;1692;"Ayudas a la Distribución de Largometrajes";8000.0
+628;1697;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";174180.0
+629;1700;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";83308.5
+630;1702;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";357000.0
+631;1705;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";171541.05
+632;1707;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";150000.0
+633;1710;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";127500.0
+634;1711;"Ayudas a la Amortización de Largometrajes - Complementaria";101822.47
+635;1711;"Ayudas a la Amortización de Largometrajes - General";784456.63
+636;1711;"Ayudas a la Conservación de Negativos y soportes originales";29001.41
+637;1713;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";493610.0
+638;1715;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";289148.32
+639;1716;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";161840.0
+640;1717;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";774365.81
+641;1718;"Ayudas a la Amortización de Largometrajes - Complementaria";901518.16
+642;1718;"Ayudas a la Distribución de Largometrajes";13466.0
+643;1719;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";637500.0
+644;1724;"Ayudas Generales para la producción de largometrajes sobre proyecto";1072000.0
+645;1732;"Ayudas Generales para la producción de largometrajes sobre proyecto";1000000.0
+646;1735;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";110065.0
+647;1739;"Ayudas a la Amortización de Largometrajes - General";5359.69
+648;1739;"Ayudas para el Desarrollo de Proyectos de Largometraje";70000.0
+649;1739;"Ayudas sobre Proyecto de Largometrajes";200705.11
+650;1740;"Ayudas a la Amortización de Largometrajes - General";750000.0
+651;1740;"Ayudas a la Minoración de Intereses - Producción";55000.0
+652;1742;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";58265.0
+653;1744;"Ayudas a la Amortización de Largometrajes - General";740632.88
+654;1744;"Ayudas a la Conservación de Negativos y soportes originales";8124.96
+655;1744;"Ayudas a la Minoración de Intereses - Producción";33950.0
+656;1750;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";169150.0
+657;1751;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";79135.0
+658;1754;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";131210.2
+659;1755;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";429840.0
+660;1756;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";134570.27
+661;1758;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";112016.4
+662;1760;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";76500.0
+663;1763;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";117440.0
+664;1765;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";165750.0
+665;1767;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";95000.0
+666;1768;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";399750.0
+667;1774;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";244281.5
+668;1779;"Ayudas Selectivas para la producción de largometrajes sobre proyecto";480000.0
